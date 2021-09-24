@@ -13,7 +13,7 @@
 
     <h1>After installing</h1>
     <p>type these commands for updating and installing missing plugins</p>
-    <ol type="I">
+    <ol>
         <li>vim ~/.vimrc</li>
         <li>:PlugInstall</li>
         <li>:PlugUpdate</li>
